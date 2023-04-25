@@ -1,6 +1,7 @@
 # GCAMSEAUSA
 This a code for climate mitigation scenarios and socioeconomic pathways for USA and SouthEastAsia
 
+Let dig a little dip into the world of RCPs and SSPs through this story!
 
 Once upon a time, in a land blanketed with vibrant flowers, a tale unfolded that intertwined the delicate beauty of nature with the intricate concepts of land use, climate change mitigation, and socioeconomic impact. In this enchanting story, the flowers themselves spoke a silent language, expressing their wisdom and knowledge.
 
